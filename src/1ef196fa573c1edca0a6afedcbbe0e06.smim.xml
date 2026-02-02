@@ -4,6 +4,11 @@
   <asx:values>
    <URL>/SAP/BC/BSP/SAP/ZEMPLTEST/manifest-bundle.zip</URL>
    <CLASS>M_APP_L</CLASS>
+   <EXTRA>
+    <FILE_NAME>manifest-bundle.zip</FILE_NAME>
+    <MIMETYPE>application/x-zip-compressed</MIMETYPE>
+    <PARENT_FOLDER_ID>1EF196FA573C1EDCA0A6AF8DABF78E06</PARENT_FOLDER_ID>
+   </EXTRA>
   </asx:values>
  </asx:abap>
 </abapGit>
